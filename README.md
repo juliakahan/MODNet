@@ -3,7 +3,7 @@
 <img src="doc/gif/homepage_demo.gif" width="100%">
 
 <p align="center">
-  <a href="">Arxiv Preprint</a> |
+  <a href="https://arxiv.org/pdf/2011.11961.pdf">Arxiv Preprint</a> |
   <a href="https://youtu.be/PqJ3BRHX3Lc">Supplementary Video</a>
 </p>
 
@@ -16,7 +16,7 @@
 
 
 ## News
-- [Nov 24 2020] Release [Arxiv Preprint]() and [Supplementary Video](https://youtu.be/PqJ3BRHX3Lc).
+- [Nov 24 2020] Release [Arxiv Preprint](https://arxiv.org/pdf/2011.11961.pdf) and [Supplementary Video](https://youtu.be/PqJ3BRHX3Lc).
 
 ## Citation
 If this work helps your research, please consider to cite:
@@ -26,7 +26,7 @@ If this work helps your research, please consider to cite:
   author = {Zhanghan Ke and Kaican Li and Yurou Zhou and Qiuhua Wu and Xiangyu Mao and Qiong Yan and Rynson W.H. Lau},
   title = {Is a Green Screen Really Necessary for Real-Time Human Matting?},
   journal={ArXiv},
-  volume={}
+  volume={abs/2011.11961}
   year = {2020},
 }
 ```
