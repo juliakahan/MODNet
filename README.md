@@ -26,7 +26,7 @@ If this work helps your research, please consider to cite:
   author = {Zhanghan Ke and Kaican Li and Yurou Zhou and Qiuhua Wu and Xiangyu Mao and Qiong Yan and Rynson W.H. Lau},
   title = {Is a Green Screen Really Necessary for Real-Time Human Matting?},
   journal={ArXiv},
-  volume={abs/2011.11961}
+  volume={abs/2011.11961},
   year = {2020},
 }
 ```
