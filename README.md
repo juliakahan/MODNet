@@ -14,6 +14,13 @@
 
 ---
 
+## Announcement
+I have received some requests for accessing our code. I am sorry that we need some time to get everything ready since this repository is now supported by Zhanghan Ke alone. Our plans in the next few months are:
+- We first plan to publish an online image/video matting demo along with the pre-trained model in Dec. 2020.
+- We then plan to release the code of supervised training and unsupervised SOC in Jan. 2021.
+- We finally plan to open source the PHM-100 validation benchmark in Feb. 2021.
+
+We look forward to your continued attention to this project. Thanks.
 
 ## News
 - [Nov 24 2020] Release [Arxiv Preprint](https://arxiv.org/pdf/2011.11961.pdf) and [Supplementary Video](https://youtu.be/PqJ3BRHX3Lc).
