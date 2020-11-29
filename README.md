@@ -1,4 +1,4 @@
-<h2 align="center">MODNet: Is a Green Screen Really Necessary for Real-Time Human Matting?</h2>
+<h2 align="center">MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting?</h2>
 
 <img src="doc/gif/homepage_demo.gif" width="100%">
 
@@ -7,8 +7,8 @@
   <a href="https://youtu.be/PqJ3BRHX3Lc">Supplementary Video</a>
 </p>
 
-<div align="center">This is the official project of our paper <b>Is a Green Screen Really Necessary for Real-Time Human Matting?</b></div>
-<div align="center">MODNet is a <b>trimap-free</b> model for human matting in <b>real time</b> (on a single GPU).</div>
+<div align="center">This is the official project of our paper <b>Is a Green Screen Really Necessary for Real-Time Portrait Matting?</b></div>
+<div align="center">MODNet is a <b>trimap-free</b> model for portrait matting in <b>real time</b> (on a single GPU).</div>
 <div align="center">Our amazing demo, code, pre-trained model, and validation benchmark are coming soon!</div>
 
 
@@ -31,7 +31,7 @@ If this work helps your research, please consider to cite:
 ```bibtex
 @article{MODNet,
   author = {Zhanghan Ke and Kaican Li and Yurou Zhou and Qiuhua Wu and Xiangyu Mao and Qiong Yan and Rynson W.H. Lau},
-  title = {Is a Green Screen Really Necessary for Real-Time Human Matting?},
+  title = {Is a Green Screen Really Necessary for Real-Time Portrait Matting?},
   journal={ArXiv},
   volume={abs/2011.11961},
   year = {2020},
